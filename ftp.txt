@@ -1,0 +1,5 @@
+open 192.168.178.83
+cd anon
+put C:\ProgramData\mylog.txt
+bye
+exit

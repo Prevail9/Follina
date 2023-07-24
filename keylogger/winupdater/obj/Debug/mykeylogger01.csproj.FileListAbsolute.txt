@@ -1,0 +1,8 @@
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\bin\Debug\winupdater.exe.config
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\bin\Debug\winupdater.exe
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\bin\Debug\winupdater.pdb
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\obj\Debug\mykeylogger01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\obj\Debug\winupdater.exe
+C:\Users\ponci\Desktop\Key-Logger-With-Email\mykeylogger01\obj\Debug\winupdater.pdb
